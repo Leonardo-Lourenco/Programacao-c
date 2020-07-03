@@ -5,4 +5,4 @@
 <li>Depois de aprender C ++, será muito mais fácil aprender outras linguagens de programação como Java, Python, etc.</li><br>
 <li>O C ++ ajuda você a entender a arquitetura interna de um computador, como o computador armazena e recupera informações.</li><br>
 
-<a href="https://www.youtube.com/watch?v=yHbFhAyOqZQ"> Acessar Curso You Tube</a>
+<a href="https://www.youtube.com/watch?v=yHbFhAyOqZQ" target="_blank"> Acessar Curso You Tube</a>
