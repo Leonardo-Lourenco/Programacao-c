@@ -1,7 +1,6 @@
 #   Curso de  Programação com Linguagem C ++
-<hr>
 
-##Estrutura do Curso
+<h2>Estrutura do Curso<h22>
 
 
 
