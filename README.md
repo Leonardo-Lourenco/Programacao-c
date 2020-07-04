@@ -8,6 +8,8 @@
 <a href="https://www.youtube.com/watch?v=yHbFhAyOqZQ" target="_blank"> Acessar Curso YouTube</a>
 
 <hr>
-# Estrutura do Curso
+<h2> Estrutura do Curso</h2>
 
 <li>Aula 01 - Entradas e Saídas de Ddos e Tipos de Variavéis </li>
+<li>Aula 02 - Resolvendos os Exercícios </li>
+<li>Aula 03 - IF ELSE </li>
