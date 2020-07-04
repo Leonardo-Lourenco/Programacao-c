@@ -6,3 +6,8 @@
 <li>O C ++ ajuda você a entender a arquitetura interna de um computador, como o computador armazena e recupera informações.</li><br>
 
 <a href="https://www.youtube.com/watch?v=yHbFhAyOqZQ" target="_blank"> Acessar Curso YouTube</a>
+
+<hr>
+# Estrutura do Curso
+
+<li>Aula 01 - Entradas e Saídas de Ddos e Tipos de Variavéis </li>
