@@ -13,3 +13,4 @@
 <li>Aula 01 - Entradas e Saídas de Ddos e Tipos de Variavéis </li>
 <li>Aula 02 - Resolvendos os Exercícios </li>
 <li>Aula 03 - IF / ELSE </li>
+<li>Aula 04 - Switch </li>
