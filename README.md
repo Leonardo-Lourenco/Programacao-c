@@ -12,5 +12,9 @@
 
 <li>Aula 01 - Entradas e Saídas de Ddos e Tipos de Variavéis </li>
 <li>Aula 02 - Resolvendos os Exercícios </li>
-<li>Aula 03 - IF / ELSE </li>
-<li>Aula 04 - Switch </li>
+<li>Aula 03 - Estrutura IF / ELSE </li>
+<li>Aula 04 - Estrutura Switch </li>
+<li>Aula 05 - Estrutura While </li>
+<li>Aula 06 - Estrutura Do While </li>
+<li>Aula 07 - Estrutura  For</li>
+<li>Aula 08 - Resolvendos os Exercícios </li>
