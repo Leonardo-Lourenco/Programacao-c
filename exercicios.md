@@ -35,4 +35,4 @@ Faça um programa que leia dois números e determine se o número é PAR ou ÍMP
 
 <hr>
 <li> Exercícios 06 </li><br>
-Faça um programa que leia  a idade de uma pessoas e imprima na tela se a idade informada está estre (18 - 25).
+Faça um programa que leia  a idade de uma pessoa e imprima na tela se a idade informada está entre (18 - 25).
