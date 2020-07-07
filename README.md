@@ -18,3 +18,6 @@
 <li>Aula 06 - Estrutura Do While </li>
 <li>Aula 07 - Estrutura  For</li>
 <li>Aula 08 - Resolvendos os Exercícios </li>
+<li>Aula 09 - Resolvendo o Exercício - Fazer um prgrama que calcule a fatorial de um mnúmero 1*2*3*.....*n </li>
+<li>Aula 09 - Resolvendo o Exercício - Fazer um prgrama Sequência de Fibonacci -> 1 1 2 3 5 8 13 n  </li>
+<li>Aula 09 - Introdução Vetores / Arrays </li>
