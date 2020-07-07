@@ -36,3 +36,13 @@ Faça um programa que leia dois números e determine se o número é PAR ou ÍMP
 <hr>
 <li> Exercícios 06 </li><br>
 Faça um programa que leia  a idade de uma pessoa e imprima na tela se a idade informada está entre (18 - 25).
+
+<hr>
+<li> Exercícios 07 </li><br>
+Fazer um prgrama que calcule a fatorial de um número 1*2*3*.....*n.
+
+<hr>
+<li> Exercícios 08 </li><br>
+Sequência de Fibonacci -> 1 1 2 3 5 8 13 n 
+
+
