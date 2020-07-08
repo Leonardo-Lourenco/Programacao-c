@@ -21,3 +21,12 @@
 <li>Aula 09 - Resolvendo o Exercício - Fazer um prgrama que calcule a fatorial de um mnúmero 1*2*3*.....*n </li>
 <li>Aula 10 - Resolvendo o Exercício - Fazer um prgrama Sequência de Fibonacci -> 1 1 2 3 5 8 13 n  </li>
 <li>Aula 11 - Introdução Vetores / Arrays </li>
+<li>Aula 12 - Matrizes </li>
+<li>Aula 13 - Manipulando matrizes </li>
+<li>Aula 14 - Cadeia de caracteres </li>
+<li>Aula 15 - Função strlen() </li>
+<li>Aula 16 - Função strpy </li>
+<li>Aula 17 - Função strcmp() </li>
+
+
+
