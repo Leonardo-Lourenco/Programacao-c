@@ -1,0 +1,17 @@
+#include<iostream>
+#include<string.h>
+
+// Função strlen();
+
+using namespace std;
+
+int main(){
+
+   
+   
+
+
+
+   return 0;
+
+}
