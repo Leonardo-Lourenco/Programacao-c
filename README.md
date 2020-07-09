@@ -27,6 +27,10 @@
 <li>Aula 15 - Função strlen() </li>
 <li>Aula 16 - Função strpy </li>
 <li>Aula 17 - Função strcmp() </li>
+<li>Aula 18 - Função strcat() </li>
+<li>Aula 19 - Função atoi e atof </li>
+<li>Aula 20 - Bubblr Sort </li>
+
 
 
 
