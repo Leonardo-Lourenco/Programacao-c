@@ -45,4 +45,8 @@ Fazer um prgrama que calcule a fatorial de um número 1*2*3*.....*n.
 <li> Exercícios 08 </li><br>
 Sequência de Fibonacci -> 1 1 2 3 5 8 13 n 
 
+<hr>
+<li> Exercícios 09 </li><br>
+Faça um programa que leia o nome sa pesosa e após isso exiba na tela Bem vindo (nome da pessoa), utilizando as funções para manipular caracteres - Aula 18
+
 
