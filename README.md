@@ -29,7 +29,7 @@
 <li>Aula 17 - Função strcmp() </li>
 <li>Aula 18 - Função strcat() </li>
 <li>Aula 19 - Função atoi e atof </li>
-<li>Aula 20 - Bubblr Sort </li>
+<li>Aula 20 - Bubble Sort </li>
 
 
 
