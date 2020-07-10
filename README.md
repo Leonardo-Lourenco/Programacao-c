@@ -34,7 +34,7 @@
 <li>Aula 22 - Ordenação por Inserção (Inserction Sort) </li>
 <li>Aula 23 - Busca Seguencial em um Vetor </li>
 <li>Aula 24 - Estrutura de Dados Conceito (struct) </li>
-<li>Aula 25 - Estrutura de Dados Conceito (struct) </li>
+<li>Aula 25 - Estrutura de Dados (struct) </li>
 
 
 
