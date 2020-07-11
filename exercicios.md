@@ -54,10 +54,14 @@ Faça um programa que leia o nome de uma pesosa e após isso exiba na tela Bem v
 
 
 Criar 2 estruturas com os seguintes dados: <br><br>
-<b>1°  estrutura:<><b><br>
+<b>1°  estrutura:</b><br>
 nota1, nota2, nota3<br><br>
 
-<b>2° estrutura:<b><br>
+<b>2° estrutura:</b><br>
      nome, sexo, idade
 <br><br>
 Após pedir estes dados  o programa deverá calcular a média do aluno e exibir se o aluno está aprovado ou reprovado , imprimir também os dados do aluno seu nome, sexo e idade.
+
+<hr>
+<li> Exercícios 11 </li><br>
+
