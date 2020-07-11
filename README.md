@@ -35,6 +35,8 @@
 <li>Aula 23 - Busca Seguencial em um Vetor </li>
 <li>Aula 24 - Estrutura de Dados Conceito (struct) </li>
 <li>Aula 25 - Estrutura de Dados (struct) </li>
+<li>Aula 26 - Estrutura de Dados (struct) Resolvendo Exercícios 01 </li>
+<li>Aula 27 - Estrutura de Dados (struct) Resolvendo Exercícios 02  </li>
 
 
 
