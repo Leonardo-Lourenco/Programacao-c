@@ -64,4 +64,15 @@ Após pedir estes dados  o programa deverá calcular a média do aluno e exibir 
 
 <hr>
 <li> Exercícios 11 </li><br>
+Fazer um programa para avaliar filme permitidos de acordo com a idade.<br><br>
+
+O programa deverá conter uma estrutura filme permitidos onde pedira os seguintes dados:<br><br>
+       <b>nome</b><br> <b>idade</b><br> <b>sexo</b><br><b>gênero</b>
+<br><br>
+Categoria de filmes:<br><br>
+   <b>Infantil <= 18</b><br>
+   <b>Aventura <=40</b><br>
+   <b>Terror > 40 anos</b><br><br>
+
+Depois imprimir na tela os dados da pessoa e a sua categoria de filme.
 
