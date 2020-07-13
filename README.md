@@ -39,6 +39,11 @@
 <li>Aula 27 - Estrutura de Dados (struct) Resolvendo Exercícios 01 </li>
 <li>Aula 28 - Estrutura de Dados (struct) Resolvendo Exercícios 02  </li>
 <li>Aula 29 - Introdução a Funções </li>
+<li>Aula 30 - Funções - Passagem de parâmetro por refrência </li>
+<li>Aula 31 - Funções - Devolvendo multiplos valores  </li>
+<li>Aula 32 - Funções - Passagem de parâmetro do tipo Vetor </li>
+<li>Aula 33 - Funções - Passagem de parâmetro do tipo Matriz </li>
+<li>Aula 34 - Funções - Passagem de parâmetro do Estrutura (struct) </li>
 
 
 
