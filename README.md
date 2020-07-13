@@ -29,7 +29,7 @@
 <li>Aula 17 - Função strcmp() </li>
 <li>Aula 18 - Função strcat() </li>
 <li>Aula 19 - Função atoi e atof </li>
-<li>Aula 20 - Bubble Sort </li>
+<li>Aula 20 - Ordenação Bubble Sort </li>
 <li>Aula 21 - Ordenação por Seleção (Selection Sort) </li>
 <li>Aula 22 - Ordenação por Inserção (Inserction Sort) </li>
 <li>Aula 23 - Busca Seguencial em um Vetor </li>
