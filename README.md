@@ -44,6 +44,11 @@
 <li>Aula 32 - Funções - Passagem de parâmetro do tipo Vetor </li>
 <li>Aula 33 - Funções - Passagem de parâmetro do tipo Matriz </li>
 <li>Aula 34 - Funções - Passagem de parâmetro do Estrutura (struct) </li>
+<li>Aula 35 - Criando um Arquivo de Texto </li>
+<li>Aula 36 - Copiando dados de um Arquivo de Texto </li>
+<li>Aula 37 - Editando de um Arquivo de Texto </li>
+<li>Aula 38 - Introdução Ponteiros </li>
+<li>Aula 39 - Ponteiros / Vetor (Arrays) </li>
 
 
 
