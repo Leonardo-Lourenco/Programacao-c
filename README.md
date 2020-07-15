@@ -49,6 +49,8 @@
 <li>Aula 37 - Editando de um Arquivo de Texto </li>
 <li>Aula 38 - Introdução Ponteiros </li>
 <li>Aula 39 - Ponteiros / Vetor (Arrays) </li>
+<li>Aula 40 - Ponteiros / Vetor Dinâmico  </li>
+<li>Aula 41 - Ponteiros /Matriz Dinâmica </li>
 
 
 
