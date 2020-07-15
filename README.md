@@ -1,5 +1,3 @@
-#   Curso de  Programação com Linguagem C ++
-
 ![Capa-GITHUB](https://user-images.githubusercontent.com/27355729/87550489-13958880-c67d-11ea-8d58-65ab2ef8e6b1.png)
 
   Por que aprender C ++? <br><br>
