@@ -51,6 +51,15 @@
 <li>Aula 39 - Ponteiros / Vetor (Arrays) </li>
 <li>Aula 40 - Ponteiros / Vetor Dinâmico  </li>
 <li>Aula 41 - Ponteiros /Matriz Dinâmica </li>
+<li>Aula 42 - Ponteiros / Estrutura (Struct) </li>
+<li>Aula 43 - Introdução Pilhas (Stack) </li>
+<li>Aula 44 - Inserindo valor Pilhas (Stack) </li>
+<li>Aula 45 - Exibindo e Deletando Pilhas (Stack) </li>
+<li>Aula 46 - Introdução Filas (Queues) </li>
+<li>Aula 47 - Inserindo valor Filas (Queues) </li>
+<li>Aula 48 - Exibindo e Deletando Valor Filas (Queues) </li>
+<li>Aula 50 - Introdução Listas Encadeadas </li>
+<li>Aula 51 - Criando um Menu de Opções </li>
 
 
 
