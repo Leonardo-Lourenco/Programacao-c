@@ -60,6 +60,30 @@
 <li>Aula 48 - Exibindo e Deletando Valor Filas (Queues) </li>
 <li>Aula 50 - Introdução Listas Encadeadas </li>
 <li>Aula 51 - Criando um Menu de Opções </li>
+<li>Aula 52 - Inserindo valor na Lista  </li>
+<li>Aula 53 - Exibindo valores da Lista </li>
+<li>Aula 54 - Buscando um valor na Lista </li>
+<li>Aula 55 - Deletando um valor na Lista </li>
+<li>Aula 56 - Deletando todos os valores da Lista  </li>
+<li>Aula 57 -  Introdução Árvore Binária  </li>
+<li>Aula 58 -  Introdução Árvore Binária de Busca  </li>
+<li>Aula 59 -  Criando um Menu de opções </li>
+<li>Aula 60 -  Inserindo valor na Árvore Binária de Busca </li>
+<li>Aula 61 -  Exibindo valores da Árvore Binária de Busca </li>
+<li>Aula 62 -  Buscando um valor na Árvore Binária de Busca </li>
+<li>Aula 63 -  Percorrendo e exibindo valores em PRÉ ORDEM Árvore Binária </li>
+<li>Aula 64 -  Percorrendo e exibindo valores EM ORDEM Árvore Binária </li>
+<li>Aula 65 -  Percorrendo e exibindo valores PÓS ORDEM Árvore Binária  </li>
+<li>Aula 65 -  Percorrendo e exibindo valores PÓS ORDEM Árvore Binária  </li>
+<li>Aula 66 -  Corrigindo BUGS Árvore Binária de Busca </li>
+
+
+
+
+
+
+
+
 
 
 
