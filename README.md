@@ -74,7 +74,6 @@
 <li>Aula 63 -  Percorrendo e exibindo valores em PRÉ ORDEM Árvore Binária </li>
 <li>Aula 64 -  Percorrendo e exibindo valores EM ORDEM Árvore Binária </li>
 <li>Aula 65 -  Percorrendo e exibindo valores PÓS ORDEM Árvore Binária  </li>
-<li>Aula 65 -  Percorrendo e exibindo valores PÓS ORDEM Árvore Binária  </li>
 <li>Aula 66 -  Corrigindo BUGS Árvore Binária de Busca </li>
 
 
