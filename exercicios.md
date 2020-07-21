@@ -76,3 +76,7 @@ Categoria de filmes:<br><br>
 
 Depois imprimir na tela os dados da pessoa e a sua categoria de filme.
 
+<hr>
+<li> Exercícios 11 </li><br>
+
+Faça um programa com uma Classe Calculadora com os seguintes atributos: Valor A, Valor B com os  seguinte Métodos soma(), multiplicação(), divisão(), subtração().
