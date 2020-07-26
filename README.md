@@ -75,15 +75,9 @@
 <li>Aula 63 -  Percorrendo e exibindo valores EM ORDEM Árvore Binária </li>
 <li>Aula 64 -  Percorrendo e exibindo valores PÓS ORDEM Árvore Binária  </li>
 <li>Aula 65 -  Corrigindo BUGS Árvore Binária de Busca </li>
-
-
-
-
-
-
-
-
-
-
-
-
+<li>Aula 66 -  Deletando valores na Árvore Binária Parte 01 </li>
+<li>Aula 67 -  Deletando valores na Árvore Binária Parte 02 </li>
+<li>Aula 68 -  Introdução Programação Orientado a Objetos </li>
+<li>Aula 69 -  Programação Orientado a Objetos - Classes </li>
+<li>Aula 70-  Introdução Programação Orientado a Objetos - Exércicio Claculadora </li>
+<li>Aula 71-  Introdução Programação Orientado a Objetos - Exércicio Notas e Médias de Alunos </li>
